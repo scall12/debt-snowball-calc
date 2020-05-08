@@ -1,0 +1,18 @@
+input {
+  background-image: none;
+}
+
+form {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+
+  width: 50rem;
+  border: 1px solid gray;
+  border-radius: 2px;
+}
+
+.element {
+  display: flex;
+  flex-direction: column;
+}
